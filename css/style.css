@@ -10,16 +10,16 @@ h1{font-size: 0mm; background-color: black;}
 
 /* CABEÇALHO */
 .cabecalho {width: 100%; float: left; background-color: rgb(255, 255, 255); }
-.logo a{width: 100px; height: 71px; float:left; background-color:  url(..img/logo1.png) no-repeat; font-size: 0;  padding: 10px 5px;} 
-.cabecalho form{width: 30%; float: right}
+.logo a{width: 100px; height: 71px; float:left; background-color:  url(..img/logo2.png) no-repeat; font-size: 0;  padding: 0px 0px;} 
+.cabecalho form{width: 15%; float: right}
 .imagem {background-color: rgb(255, 255, 255);} 
-.cabecalho input[type="text"]{width: 85%; float: left; padding: 10px 5px; border-radius: 10px 0 0 10px; }
-.cabecalho button{width: 15%; float: left; padding: 10px 10px; background-color: rgba(251, 247, 252); color: rgb(29, 29, 29); cursor: pointer; border-radius: 10 5px 5px 10;}
+.cabecalho input[type="text"]{width: 85%; float: right; padding: 10px 5px; border-radius: 10px 0 0 10px; margin: 15px 0px;}
+.cabecalho button{width: 15%; float: left; padding: 10px 10px; background-color: rgba(251, 247, 252); color: rgb(29, 29, 29); cursor: pointer; border-radius: 10 5px 5px 10; margin: 15px 0px;}
 .cabecalho a{float: right; background-color: white; color: black; cursor: pointer;}
 .cabecalho a:hover{ color: rgb(0, 0, 255);}
 
 /* MENU */
-.menu{width: 100%;float: left; background-color: rgb(247, 182, 253); padding: 20px 8%;}
+.menu{width: 100%;float: left; background-color: rgb(247, 182, 253); padding: 10px 8%;}
 .menu li{background-color: rgb(247, 182, 253);}
 .menu li{float: left;}
 .menu li a{background-color: rgb(247, 182, 253); color: rgb(8, 8, 8);margin: 25px;}
